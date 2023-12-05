@@ -1,0 +1,52 @@
+﻿  GameLauncher.cpp
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.h(6,20): error C2011: 'GameLauncher': 'class' type redefinition
+  (compiling source file 'GameLauncher.cpp')
+  C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(5,7):
+  see declaration of 'GameLauncher'
+  
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(24,15): error C2027: use of undefined type 'GameLauncher'
+  C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(5,7):
+  see declaration of 'GameLauncher'
+  
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(24,30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(24,81): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(25,10): error C2065: 'font': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(29,5): error C2065: 'title': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(30,5): error C2065: 'title': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(30,19): error C2065: 'font': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(31,5): error C2065: 'title': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(32,5): error C2065: 'title': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(34,5): error C2065: 'playButton': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(35,5): error C2065: 'playButton': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(36,5): error C2065: 'playButton': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(37,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(39,20): error C2027: use of undefined type 'GameLauncher'
+  C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(5,7):
+  see declaration of 'GameLauncher'
+  
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(40,12): error C2065: 'window': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(41,9): error C3861: 'handleEvents': identifier not found
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(42,9): error C2065: 'window': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(43,9): error C3861: 'drawLauncher': identifier not found
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(44,9): error C2065: 'window': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(48,20): error C2027: use of undefined type 'GameLauncher'
+  C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(5,7):
+  see declaration of 'GameLauncher'
+  
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(50,12): error C2065: 'window': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(52,13): error C2065: 'window': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(58,17): error C2065: 'playButton': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(59,17): error C3861: 'launchGame': identifier not found
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(65,20): error C2027: use of undefined type 'GameLauncher'
+  C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(5,7):
+  see declaration of 'GameLauncher'
+  
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(66,5): error C2065: 'window': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(66,17): error C2065: 'title': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(67,5): error C2065: 'window': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(67,17): error C2065: 'playButton': undeclared identifier
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(70,20): error C2027: use of undefined type 'GameLauncher'
+  C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(5,7):
+  see declaration of 'GameLauncher'
+  
+C:\Users\Allah  hu akbar\Desktop\TombRaiderLauncher\GameLauncher.cpp(77,18): error C2079: 'launcher' uses undefined class 'GameLauncher'
